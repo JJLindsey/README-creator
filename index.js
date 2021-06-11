@@ -56,7 +56,12 @@ const userInput = () => {
             message: 'Enter testing information.',
             default: true
         },
-        //license
+        {
+            type: 'checkbox',
+            name: 'license',
+            message: 'Please choose a license for your read me. Check all that apply.',
+            choices: ['General Public License', 'Apache 2.0', 'MIT license', 'ISC license']
+        },
         {
             type: 'input',
             name: 'github',
@@ -89,11 +94,11 @@ function init() {
     userInput().then((response) => {
         console.log(response)
 
-        const gnereatedString  = generateMarkdown(response);
+        const genratedString  = generateMarkdown(response);
 
-        console.log(gnereatedString)
+        console.log(genratedString)
 
-        fs.writeFileSync('README.md', gnereatedString)
+        fs.writeFileSync('README.md', genratedString)
 
 
 
