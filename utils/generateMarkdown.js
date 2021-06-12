@@ -2,9 +2,7 @@
 //If there is no license, return an empty string
 const licenseSection = 
 function renderLicenseBadge(license) {
-  `https://img.shields.io/badge/mybadge-license-blue`
-    if (licenseChoices === 0)
-      return 
+  `https://img.shields.io/badge/mybadge-license-yellow--%3Fstyle%3Dplastic%26logo%3Dappveyor`
   if(!licenseChoices){
     return '';
   }
@@ -33,12 +31,12 @@ const generateMarkdown = (data) => {
 ${data.description}
 
 ### Table of Contents
-[Installation](#installation)
-[Usage](#usage)
-[Contributions](#contributions)
-[Testing](#testing)
-[Licenses](#licenses)
-[Questions](#questions)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributions](#contributions)
+* [Testing](#testing)
+* [Licenses](#licenses)
+* [Questions](#questions)
 
 ### Installation
 ${data.install}
@@ -53,7 +51,9 @@ ${data.contribution}
 ${data.tests}
 
 ### Licenses
-${data.license}
+${data.license}<a href="https://img.shields.io/badge/mybadge-license-yellow--%3Fstyle%3Dplastic%26logo%3Dappveyor${data.license[0]}"><img src="></a>
+https://img.shields.io/badge/mybadge-license-yellow--%3Fstyle%3Dplastic%26logo%3Dappveyor${data.license[0]}"
+
 
 ### Questions
 If you have any questions, reach out to me on Git Hub ${data.github}, or send me a message ${data.email}.
