@@ -1,7 +1,7 @@
 # README Creator
 
 ## **Description**
-Generate a README using Node.js
+Generate a README file using Node.js
 
 ## **Table of Contents**
 * [Installation](#installation)
@@ -29,5 +29,5 @@ MIT license
 
 
 ### *Questions*
-If you have any questions, reach out to me on Git Hub [JJLindsey](https://github.com/JJLindsey), or send me a message jlindsey@gmail.com.
+If you have any questions, reach out to me on Git Hub [JJLindsey](https://github.com/JJLindsey), or send me a message jlindsey010@gmail.com.
 
