@@ -27,10 +27,10 @@ function renderLicenseSection(license) {
 const generateMarkdown = (data) => {
   return `# ${data.title}
 
-## Description
+## **Description**
 ${data.description}
 
-### Table of Contents
+## **Table of Contents**
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contributions](#contributions)
@@ -38,24 +38,25 @@ ${data.description}
 * [Licenses](#licenses)
 * [Questions](#questions)
 
-### Installation
+### **Installation**
 ${data.install}
 
-### Usage
+### **Usage**
 ${data.usage}
 
-### Contributions
+### *Contributions*
 ${data.contribution}
 
 ### Testing
 ${data.tests}
 
-### Licenses
-${data.license}<a href="https://img.shields.io/badge/mybadge-license-yellow--%3Fstyle%3Dplastic%26logo%3Dappveyor${data.license[0]}"><img src="></a>
+### *Licenses*
+${data.license}
+<a href="https://img.shields.io/badge/mybadge-license-yellow--%3Fstyle%3Dplastic%26logo%3Dappveyor${data.licenseChoices}"><img src="></a>
 https://img.shields.io/badge/mybadge-license-yellow--%3Fstyle%3Dplastic%26logo%3Dappveyor${data.license[0]}"
 
 
-### Questions
+### *Questions*
 If you have any questions, reach out to me on Git Hub ${data.github}, or send me a message ${data.email}.
 
 `;
