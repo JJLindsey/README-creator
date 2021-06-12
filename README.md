@@ -1,9 +1,9 @@
-# READMe
+# README Creator
 
-## *Description*
-create readme
+## **Description**
+Generate a README using Node.js
 
-## Table of Contents
+## **Table of Contents**
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contributions](#contributions)
@@ -11,24 +11,23 @@ create readme
 * [Licenses](#licenses)
 * [Questions](#questions)
 
-### Installation
-test
+### **Installation**
+npm
 
-### Usage
-test
+### **Usage**
+ 
 
-### Contributions
-test
+### *Contributions*
+ 
 
 ### Testing
-this is a test
+ 
 
-### Licenses
-General Public License
-<a href="https://img.shields.io/badge/mybadge-license-yellow--%3Fstyle%3Dplastic%26logo%3Dappveyorundefined"><img src="></a>
-https://img.shields.io/badge/mybadge-license-yellow--%3Fstyle%3Dplastic%26logo%3DappveyorGeneral Public License"
+### *Licenses*
+MIT license
+!("https://img.shields.io/badge/mybadge-license-yellow--%3Fstyle%3Dplastic%26logo%3Dappveyor$")MIT license
 
 
-### Questions
-If you have any questions, reach out to me on Git Hub JJLindsey, or send me a message jj.
+### *Questions*
+If you have any questions, reach out to me on Git Hub [JJLindsey](https://github.com/JJLindsey), or send me a message jlindsey@gmail.com.
 

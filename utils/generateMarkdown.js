@@ -52,12 +52,11 @@ ${data.tests}
 
 ### *Licenses*
 ${data.license}
-<a href="https://img.shields.io/badge/mybadge-license-yellow--%3Fstyle%3Dplastic%26logo%3Dappveyor${data.licenseChoices}"><img src="></a>
-https://img.shields.io/badge/mybadge-license-yellow--%3Fstyle%3Dplastic%26logo%3Dappveyor${data.license[0]}"
+!("https://img.shields.io/badge/mybadge-license-yellow--%3Fstyle%3Dplastic%26logo%3Dappveyor$")${data.license[0]}
 
 
 ### *Questions*
-If you have any questions, reach out to me on Git Hub ${data.github}, or send me a message ${data.email}.
+If you have any questions, reach out to me on Git Hub [${data.github}](https://github.com/${data.github}), or send me a message ${data.email}.
 
 `;
 }
