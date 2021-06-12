@@ -43,20 +43,20 @@ ${data.description}
 ### Installation
 ${data.install}
 
-## Usage
+### Usage
 ${data.usage}
 
-## Contributions
+### Contributions
 ${data.contribution}
 
-## Testing
+### Testing
 ${data.tests}
 
-## Licenses
+### Licenses
 ${data.license}
 
-## Questions
-${data.github}
+### Questions
+If you have any questions, reach out to me on Git Hub ${data.github}, or send me a message ${data.email}.
 
 `;
 }
