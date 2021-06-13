@@ -1,24 +1,24 @@
 //TODO: Create a function that returns a license badge based on which license is passed in
 //If there is no license, return an empty string
-const licenseSection = 
-function renderLicenseBadge(license) {
-  `https://img.shields.io/badge/mybadge-license-yellow--%3Fstyle%3Dplastic%26logo%3Dappveyor`
+const renderLicenseBadge = licenseChoices => {
+
   if(!licenseChoices){
-    return '';
+    return ''
   }
+  //return `<img src="https://img.shields.io/badge/mybadge-license${licenseChoices}-blue" alt="badge with license name"/>`
 }
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
-function renderLicenseLink(license) {
-  if(!license){
-    return '';
+const renderLicenseLink = licenseLink => {
+  if(!licenseLink){
+    return ''
   }
 }
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
-function renderLicenseSection(license) {
+const renderLicenseSection = license => {
   if(!license){
-    return '';
+    return ''
   }
 }
 
@@ -52,9 +52,10 @@ ${data.tests}
 
 ### *Licenses*
 ${data.license}
-!("https://img.shields.io/badge/mybadge-license-yellow--%3Fstyle%3Dplastic%26logo%3Dappveyor$")
+
 
 ### *Badges*
+${renderLicenseBadge(data.licenses)}
 
 
 ### *Questions*

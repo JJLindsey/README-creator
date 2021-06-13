@@ -1,7 +1,7 @@
-# READE Creator
+#    ff
 
 ## **Description**
-Generate a README file with Nodejs
+ff
 
 ## **Table of Contents**
 * [Installation](#installation)
@@ -12,7 +12,7 @@ Generate a README file with Nodejs
 * [Questions](#questions)
 
 ### **Installation**
-npm
+ff
 
 ### **Usage**
  
@@ -24,12 +24,13 @@ npm
  
 
 ### *Licenses*
-MIT license
-!("https://img.shields.io/badge/mybadge-license-yellow--%3Fstyle%3Dplastic%26logo%3Dappveyor$")
+General Public License
+
 
 ### *Badges*
 
 
+
 ### *Questions*
-If you have any questions, reach out to me on Git Hub [JJLindsey](https://github.com/JJLindsey), or send me a message jlindsey010@gmail.com.
+If you have any questions, reach out to me on Git Hub [ fdd](https://github.com/ fdd), or send me a message ddd.
 
