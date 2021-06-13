@@ -18,7 +18,6 @@ npm
 ### **Usage**
 ⏯
 
-<iframe src="https://drive.google.com/file/d/1UmsvRfnjAlJMBqBmUAoFWrYtjdW4FtGt/preview" width="640" height="480"></iframe>
 
 ### **Technologies Used:**
 * Node.js
