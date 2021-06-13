@@ -98,7 +98,7 @@ function init() {
 
         console.log(genratedString)
 
-        fs.writeFileSync('README.md', genratedString)
+        fs.writeFileSync('generate.README.md', genratedString)
 
 
 

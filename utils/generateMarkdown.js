@@ -52,7 +52,9 @@ ${data.tests}
 
 ### *Licenses*
 ${data.license}
-!("https://img.shields.io/badge/mybadge-license-yellow--%3Fstyle%3Dplastic%26logo%3Dappveyor$")${data.license[0]}
+!("https://img.shields.io/badge/mybadge-license-yellow--%3Fstyle%3Dplastic%26logo%3Dappveyor$")
+
+### *Badges*
 
 
 ### *Questions*
