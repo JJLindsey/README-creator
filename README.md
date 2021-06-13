@@ -18,6 +18,11 @@ npm
 ### **Usage**
 ⏯
 
+<figure class="video_container">
+  <iframe src="./assets/ReadMeCreate.mp4" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+<a href="./assets/ReadMeCreate.mp4" title="Node ReadMe"></a>
 
 ### **Technologies Used:**
 * Node.js

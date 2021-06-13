@@ -1,7 +1,7 @@
-#    ff
+# REAME Creator
 
 ## **Description**
-ff
+Generata a README file using Node.js
 
 ## **Table of Contents**
 * [Installation](#installation)
@@ -12,7 +12,7 @@ ff
 * [Questions](#questions)
 
 ### **Installation**
-ff
+npm 
 
 ### **Usage**
  
@@ -24,7 +24,7 @@ ff
  
 
 ### *Licenses*
-General Public License
+MIT license
 
 
 ### *Badges*
@@ -32,5 +32,5 @@ General Public License
 
 
 ### *Questions*
-If you have any questions, reach out to me on Git Hub [ fdd](https://github.com/ fdd), or send me a message ddd.
+If you have any questions, reach out to me on Git Hub [JJLindsey](https://github.com/JJLindsey), or send me a message jjlindsey@gmail.com.
 
