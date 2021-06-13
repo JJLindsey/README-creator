@@ -7,27 +7,42 @@ Generate a README file using Node.js
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contributions](#contributions)
-* [Testing](#testing)
 * [Licenses](#licenses)
+* [Badges](#Badges)
 * [Questions](#questions)
+* [Testing](#testing)
 
 ### **Installation**
 npm
 
 ### **Usage**
- 
+⏯
+
+
+### **Technologies Used:**
+* Node.js
+* JavaScript
+* npm
+
+<img src="./assets/NodeJS.png" height=100>
+
 
 ### *Contributions*
- 
 
-### Testing
- 
 
 ### *Licenses*
 MIT license
-!("https://img.shields.io/badge/mybadge-license-yellow--%3Fstyle%3Dplastic%26logo%3Dappveyor$")MIT license
 
+
+### *Badges*
+<img src="https://img.shields.io/badge/MIT-license-brightgreen">
 
 ### *Questions*
-If you have any questions, reach out to me on Git Hub [JJLindsey](https://github.com/JJLindsey), or send me a message jlindsey010@gmail.com.
+If you have any questions, reach out to me on Git Hub https://github.com/JJLindsey, or send me a message jlindsey010@gmail.com.
 
+
+
+#### Testing
+
+
+©Jennifer Lindsey
