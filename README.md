@@ -1,3 +1,4 @@
+![NodeReadDemo](https://user-images.githubusercontent.com/12735296/121817661-4eff5500-cc48-11eb-97ac-0e4d829ec837.gif)
 # README Creator
 
 ## **Description**
@@ -17,6 +18,8 @@ npm
 
 ### **Usage**
 ⏯
+
+![NodeReadDemo](https://user-images.githubusercontent.com/12735296/121817664-545c9f80-cc48-11eb-9a3a-64a203f89b36.gif)
 
 
 ### **Technologies Used:**
