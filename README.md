@@ -1,4 +1,3 @@
-![NodeReadDemo](https://user-images.githubusercontent.com/12735296/121817661-4eff5500-cc48-11eb-97ac-0e4d829ec837.gif)
 # README Creator
 
 ## **Description**
