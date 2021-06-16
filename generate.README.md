@@ -1,7 +1,7 @@
-# REAME Creator
+# README Creator
 
 ## **Description**
-Generata a README file using Node.js
+Generate a README file using Nodejs
 
 ## **Table of Contents**
 * [Installation](#installation)
@@ -12,7 +12,7 @@ Generata a README file using Node.js
 * [Questions](#questions)
 
 ### **Installation**
-npm 
+npm, inquirer
 
 ### **Usage**
  
@@ -24,13 +24,13 @@ npm
  
 
 ### *Licenses*
-MIT license
+Apache 2.0
 
 
 ### *Badges*
-
+<img src="https://img.shields.io/badge/mybadge-Apache 2.0-blue" alt="badge with license name"/>
 
 
 ### *Questions*
-If you have any questions, reach out to me on Git Hub [JJLindsey](https://github.com/JJLindsey), or send me a message jjlindsey@gmail.com.
+If you have any questions, reach out to me on Git Hub [JJLindsey](https://github.com/JJLindsey), or send me a message jlindsey010@gmail.com.
 

@@ -5,7 +5,7 @@ const renderLicenseBadge = licenseChoices => {
   if(!licenseChoices){
     return ''
   }
-  //return `<img src="https://img.shields.io/badge/mybadge-license${licenseChoices}-blue" alt="badge with license name"/>`
+  return `<img src="https://img.shields.io/badge/mybadge-${licenseChoices}-blue" alt="badge with license name"/>`
 }
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
@@ -55,7 +55,7 @@ ${data.license}
 
 
 ### *Badges*
-${renderLicenseBadge(data.licenses)}
+${renderLicenseBadge(data.license)}
 
 
 ### *Questions*
